@@ -1,0 +1,116 @@
+body {
+    overflow: hidden;
+}
+.container {
+    position: relative;
+    text-align: center;
+    right: 5%;
+}
+.text {
+    position: absolute; 
+    color:coral;
+    top: 10%;
+    left: 43%;
+    font-family: Arial;
+}
+.line {
+    position: absolute;
+    width: 3%;
+    height: 0.5%;
+    background-color: coral;
+    top: 18%;
+    left: 48%;
+}
+.container2 {
+    position: relative;
+    text-align: center;
+}
+.text1 {
+    position:absolute;
+    color:white;
+    top: 21%;
+    left: 35%;
+    font-family: Arial;
+}
+.container3 {
+    position: fixed;
+    background-color: white;
+    top: 205px;
+    left: 350px;
+    width: 50%;
+    height: 32%;
+}
+.photo1 {
+    position: absolute;
+    left: 450px;
+    top: 32%;
+    border-radius: 10px;
+}
+.block1 {
+    position: fixed;
+    left: 449px;
+    top: 43%;
+    color: gray;
+}
+.block2 {
+    position:fixed;
+    left: 408px;
+    top: 47.5%;
+}
+.photo2 {
+    position:absolute;
+    left: 680px;
+    top: 32%;
+    border-radius: 10px;
+}
+.block3 {
+    position: fixed;
+    left: 683px;
+    top: 43%;
+    color: gray;
+}
+.block4 {
+    position:fixed;
+    left: 640px;
+    top: 47.5%;
+    text-align: center;
+}
+.photo3 {
+    position: absolute;
+    left: 910px;
+    top: 32%;
+    border-radius: 10px;
+}
+.block5 {
+    position: fixed;
+    left: 910px;
+    top: 43%;
+    color: gray;
+}
+.block6 {
+    position: fixed;
+    left: 893px;
+    top: 48%;
+}
+.text2 {
+    position:absolute;
+    color:white;
+    top: 66.5%;
+    left: 44.5%;
+    font-family: Arial;
+}
+.container4 {
+    position: fixed;
+    background-color: gray;
+    top: 83%;
+    left: 0px;
+    width: 100%;
+    height: 17%;
+}
+.text3 {
+    position: fixed;
+    color: white;
+    top: 90%;
+    left: 35%;
+    text-align: center;
+}
